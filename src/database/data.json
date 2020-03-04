@@ -1,0 +1,20 @@
+{
+    "Profiles":[
+        {
+            "basics":{
+                "name":"Bhanu",
+                "role":"Senior Web Developer",
+                "email":"bhanugonugunta@gmail.com",
+                "mobile":"+91 9876543210"
+            }
+        },
+        {
+            "basics":{
+                "name":"RAVI",
+                "role":"CEO",
+                "email":"ravichandravirgo@gmail.com",
+                "mobile":"+91 9776543210"
+            }
+        }
+    ]
+}
